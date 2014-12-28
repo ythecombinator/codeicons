@@ -41,11 +41,12 @@ But it is intended to maintain this project under the [Semantic Versioning] (htt
 
 ##TODOs
 
+- [ ] Create classes to increase icon sizes
 - [ ] Add more icons (programming languages, frameworks, Operating Systems, services...)
 - [ ] Add LESS and SCSS
 - [ ] Add bower.json
 
-##Thanks:
+##Thanks
 
 Some icons were originally made by:
 * [Cole Bemis] (http://colebemis.com/)
