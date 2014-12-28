@@ -1,4 +1,4 @@
-#[Code Icons v1.0](http://mabrasil.github.io/getcodeicons/)
+#[Code Icons v1.1](http://mabrasil.github.io/getcodeicons/)
 ###The first font and icon set made for coders' world!
 
 Code Icons is an icon set of 138 programming languages, frameworks, and coding tools.
@@ -9,6 +9,8 @@ Check it out at http://mabrasil.github.io/getcodeicons/
 ##License
 
 Code Icons is distributed under the MIT License, available in this repository.
+
+> Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by me, nor vice versa.
 
 ##Using
 
@@ -37,10 +39,17 @@ But it is intended to maintain this project under the [Semantic Versioning] (htt
 
 `<major>.<minor>.<patch>`
 
-> Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by me, nor vice versa.
-
-##TODOs:
+##TODOs
 
 - [ ] Add more icons (programming languages, frameworks, Operating Systems, services...)
 - [ ] Add LESS and SCSS
 - [ ] Add bower.json
+
+##Thanks:
+
+Some icons were originally made by:
+* [Cole Bemis] (http://colebemis.com/)
+* [Daniel Bruce] (http://danielbruce.se/)
+* [Tommy Sähl](http://tommysahl.com/)
+* [Sergey Shmidt] (http://shmidt.in/)
+* [Github] (https://github.com/github/octicons)
