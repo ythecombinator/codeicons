@@ -6,10 +6,10 @@
 {
 	"fontFamily": "Code-Icons",
 	"majorVersion": 1,
-	"minorVersion": 0,
+	"minorVersion": 1,
 	"copyright": "© Matheus Brasil",
 	"description": "Code Icons is an icon set of programming languages, frameworks, and coding tools.",
-	"version": "Version 1.0",
+	"version": "Version 1.1.0",
 	"fontId": "Code-Icons",
 	"psName": "Code-Icons",
 	"subFamily": "Regular",
