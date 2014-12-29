@@ -1,4 +1,4 @@
-#[Code Icons v1.1](http://mabrasil.github.io/getcodeicons/)
+#[Code Icons v1.1.0](http://mabrasil.github.io/getcodeicons/)
 ###The first font and icon set made for coders' world!
 
 Code Icons is an icon set of 138 programming languages, frameworks, and coding tools.
@@ -31,11 +31,7 @@ Code Icons is distributed under the MIT License, available in this repository.
 
 ##Versioning
 
-By now Code Icons releases are numbered with the following format:
-
-`<major>.<minor>`
-
-But it is intended to maintain this project under the [Semantic Versioning] (http://semver.org/) guidelines as much as possible. Releases will be numbered with the following format:
+It is intended to maintain this project under the [Semantic Versioning] (http://semver.org/) guidelines. Releases will be numbered with the following format:
 
 `<major>.<minor>.<patch>`
 
