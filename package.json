@@ -1,0 +1,18 @@
+{
+    "name": "code-icons",
+    "description": "Code Icons is an icon set of programming languages, frameworks, and coding tools.",
+    "private": true,
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-autoprefixer": "^2.3.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-load-plugins": "^0.10.0",
+        "gulp-sass": "^2.0.3",
+        "gulp-size": "^1.2.3",
+        "gulp-sourcemaps": "^1.5.2",
+        "gulp-csso": "^1.0.0",
+        "gulp-if": "^1.2.5",
+        "gulp-util": "^3.0.6",
+        "gulp-replace": "^0.5.3"
+    }
+}
