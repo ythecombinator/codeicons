@@ -5,6 +5,21 @@
   font-weight: normal;
   font-style: normal; }
 
+i,
+.ci {
+  font-family: 'Code-Icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering */
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
 .ci-tool-atom:before {
   content: "\f000"; }
 

@@ -1,3 +1,19 @@
+i,
+.#{$ci-css-prefix} {
+	font-family: 'Code-Icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering */
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
 .#{$ci-css-prefix}-tool-atom:before { content: unquote("\"\\#{$ci-var-tool-atom}\""); }
 .#{$ci-css-prefix}-tool-brackets:before { content: unquote("\"\\#{$ci-var-tool-brackets}\""); }
 .#{$ci-css-prefix}-tool-codepen:before { content: unquote("\"\\#{$ci-var-tool-codepen}\""); }
