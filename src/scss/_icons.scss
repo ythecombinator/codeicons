@@ -1,0 +1,154 @@
+i,
+.#{$ci-css-prefix} {
+	font-family: 'Code-Icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering */
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.#{$ci-css-prefix}-tool-atom:before { content: unquote("\"\\#{$ci-var-tool-atom}\""); }
+.#{$ci-css-prefix}-tool-brackets:before { content: unquote("\"\\#{$ci-var-tool-brackets}\""); }
+.#{$ci-css-prefix}-tool-codepen:before { content: unquote("\"\\#{$ci-var-tool-codepen}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-appcode:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-appcode}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-CLion:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-CLion}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-intellij:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-intellij}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-phpstorm:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-phpstorm}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-pycharm:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-pycharm}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-resharper:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-resharper}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-rubymine:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-rubymine}\""); }
+.#{$ci-css-prefix}-tool-jetbrains-webstorm:before { content: unquote("\"\\#{$ci-var-tool-jetbrains-webstorm}\""); }
+.#{$ci-css-prefix}-tool-jsfiddle:before { content: unquote("\"\\#{$ci-var-tool-jsfiddle}\""); }
+.#{$ci-css-prefix}-tool-sublime:before { content: unquote("\"\\#{$ci-var-tool-sublime}\""); }
+.#{$ci-css-prefix}-apache:before { content: unquote("\"\\#{$ci-var-apache}\""); }
+.#{$ci-css-prefix}-cherokee:before { content: unquote("\"\\#{$ci-var-cherokee}\""); }
+.#{$ci-css-prefix}-lighttpd:before { content: unquote("\"\\#{$ci-var-lighttpd}\""); }
+.#{$ci-css-prefix}-nginx:before { content: unquote("\"\\#{$ci-var-nginx}\""); }
+.#{$ci-css-prefix}-node:before { content: unquote("\"\\#{$ci-var-node}\""); }
+.#{$ci-css-prefix}-tomcat:before { content: unquote("\"\\#{$ci-var-tomcat}\""); }
+.#{$ci-css-prefix}-coffeescript:before { content: unquote("\"\\#{$ci-var-coffeescript}\""); }
+.#{$ci-css-prefix}-css3:before { content: unquote("\"\\#{$ci-var-css3}\""); }
+.#{$ci-css-prefix}-html5:before { content: unquote("\"\\#{$ci-var-html5}\""); }
+.#{$ci-css-prefix}-java:before { content: unquote("\"\\#{$ci-var-java}\""); }
+.#{$ci-css-prefix}-JS:before { content: unquote("\"\\#{$ci-var-JS}\""); }
+.#{$ci-css-prefix}-less:before { content: unquote("\"\\#{$ci-var-less}\""); }
+.#{$ci-css-prefix}-lua:before { content: unquote("\"\\#{$ci-var-lua}\""); }
+.#{$ci-css-prefix}-php:before { content: unquote("\"\\#{$ci-var-php}\""); }
+.#{$ci-css-prefix}-python:before { content: unquote("\"\\#{$ci-var-python}\""); }
+.#{$ci-css-prefix}-ruby:before { content: unquote("\"\\#{$ci-var-ruby}\""); }
+.#{$ci-css-prefix}-sass:before { content: unquote("\"\\#{$ci-var-sass}\""); }
+.#{$ci-css-prefix}-scala:before { content: unquote("\"\\#{$ci-var-scala}\""); }
+.#{$ci-css-prefix}-stylus:before { content: unquote("\"\\#{$ci-var-stylus}\""); }
+.#{$ci-css-prefix}-host-aws:before { content: unquote("\"\\#{$ci-var-host-aws}\""); }
+.#{$ci-css-prefix}-host-digitalocean:before { content: unquote("\"\\#{$ci-var-host-digitalocean}\""); }
+.#{$ci-css-prefix}-host-dotcloud:before { content: unquote("\"\\#{$ci-var-host-dotcloud}\""); }
+.#{$ci-css-prefix}-host-heroku:before { content: unquote("\"\\#{$ci-var-host-heroku}\""); }
+.#{$ci-css-prefix}-host-openshift:before { content: unquote("\"\\#{$ci-var-host-openshift}\""); }
+.#{$ci-css-prefix}-host-webfaction:before { content: unquote("\"\\#{$ci-var-host-webfaction}\""); }
+.#{$ci-css-prefix}-fw-lift:before { content: unquote("\"\\#{$ci-var-fw-lift}\""); }
+.#{$ci-css-prefix}-fw-rails:before { content: unquote("\"\\#{$ci-var-fw-rails}\""); }
+.#{$ci-css-prefix}-fw-django:before { content: unquote("\"\\#{$ci-var-fw-django}\""); }
+.#{$ci-css-prefix}-fw-web2py:before { content: unquote("\"\\#{$ci-var-fw-web2py}\""); }
+.#{$ci-css-prefix}-fw-cake:before { content: unquote("\"\\#{$ci-var-fw-cake}\""); }
+.#{$ci-css-prefix}-fw-codeigniter:before { content: unquote("\"\\#{$ci-var-fw-codeigniter}\""); }
+.#{$ci-css-prefix}-fw-laravel:before { content: unquote("\"\\#{$ci-var-fw-laravel}\""); }
+.#{$ci-css-prefix}-fw-symfony:before { content: unquote("\"\\#{$ci-var-fw-symfony}\""); }
+.#{$ci-css-prefix}-fw-yii:before { content: unquote("\"\\#{$ci-var-fw-yii}\""); }
+.#{$ci-css-prefix}-fw-zend:before { content: unquote("\"\\#{$ci-var-fw-zend}\""); }
+.#{$ci-css-prefix}-fw-angular:before { content: unquote("\"\\#{$ci-var-fw-angular}\""); }
+.#{$ci-css-prefix}-fw-backbone:before { content: unquote("\"\\#{$ci-var-fw-backbone}\""); }
+.#{$ci-css-prefix}-fw-derby:before { content: unquote("\"\\#{$ci-var-fw-derby}\""); }
+.#{$ci-css-prefix}-fw-ember:before { content: unquote("\"\\#{$ci-var-fw-ember}\""); }
+.#{$ci-css-prefix}-fw-jquery:before { content: unquote("\"\\#{$ci-var-fw-jquery}\""); }
+.#{$ci-css-prefix}-fw-jquery-ui:before { content: unquote("\"\\#{$ci-var-fw-jquery-ui}\""); }
+.#{$ci-css-prefix}-fw-meteor:before { content: unquote("\"\\#{$ci-var-fw-meteor}\""); }
+.#{$ci-css-prefix}-fw-react:before { content: unquote("\"\\#{$ci-var-fw-react}\""); }
+.#{$ci-css-prefix}-fw-hibernate:before { content: unquote("\"\\#{$ci-var-fw-hibernate}\""); }
+.#{$ci-css-prefix}-fw-play:before { content: unquote("\"\\#{$ci-var-fw-play}\""); }
+.#{$ci-css-prefix}-fw-spring:before { content: unquote("\"\\#{$ci-var-fw-spring}\""); }
+.#{$ci-css-prefix}-fw-wicket:before { content: unquote("\"\\#{$ci-var-fw-wicket}\""); }
+.#{$ci-css-prefix}-fw-bootstrap:before { content: unquote("\"\\#{$ci-var-fw-bootstrap}\""); }
+.#{$ci-css-prefix}-fw-foundation:before { content: unquote("\"\\#{$ci-var-fw-foundation}\""); }
+.#{$ci-css-prefix}-fw-semantic:before { content: unquote("\"\\#{$ci-var-fw-semantic}\""); }
+.#{$ci-css-prefix}-db-cassandra:before { content: unquote("\"\\#{$ci-var-db-cassandra}\""); }
+.#{$ci-css-prefix}-db-couchdb:before { content: unquote("\"\\#{$ci-var-db-couchdb}\""); }
+.#{$ci-css-prefix}-db-mongodb:before { content: unquote("\"\\#{$ci-var-db-mongodb}\""); }
+.#{$ci-css-prefix}-db-mysql:before { content: unquote("\"\\#{$ci-var-db-mysql}\""); }
+.#{$ci-css-prefix}-db-neo4j:before { content: unquote("\"\\#{$ci-var-db-neo4j}\""); }
+.#{$ci-css-prefix}-db-postgres:before { content: unquote("\"\\#{$ci-var-db-postgres}\""); }
+.#{$ci-css-prefix}-db-redis:before { content: unquote("\"\\#{$ci-var-db-redis}\""); }
+.#{$ci-css-prefix}-db-sqlite:before { content: unquote("\"\\#{$ci-var-db-sqlite}\""); }
+.#{$ci-css-prefix}-os-android:before { content: unquote("\"\\#{$ci-var-os-android}\""); }
+.#{$ci-css-prefix}-adb:before { content: unquote("\"\\#{$ci-var-adb}\""); }
+.#{$ci-css-prefix}-layout:before { content: unquote("\"\\#{$ci-var-layout}\""); }
+.#{$ci-css-prefix}-layers:before { content: unquote("\"\\#{$ci-var-layers}\""); }
+.#{$ci-css-prefix}-browser:before { content: unquote("\"\\#{$ci-var-browser}\""); }
+.#{$ci-css-prefix}-window:before { content: unquote("\"\\#{$ci-var-window}\""); }
+.#{$ci-css-prefix}-terminal:before { content: unquote("\"\\#{$ci-var-terminal}\""); }
+.#{$ci-css-prefix}-code:before { content: unquote("\"\\#{$ci-var-code}\""); }
+.#{$ci-css-prefix}-bitcoin:before { content: unquote("\"\\#{$ci-var-bitcoin}\""); }
+.#{$ci-css-prefix}-tool-stack-overflow:before { content: unquote("\"\\#{$ci-var-tool-stack-overflow}\""); }
+.#{$ci-css-prefix}-bitbucket:before { content: unquote("\"\\#{$ci-var-bitbucket}\""); }
+.#{$ci-css-prefix}-bitbucket-square:before { content: unquote("\"\\#{$ci-var-bitbucket-square}\""); }
+.#{$ci-css-prefix}-os-linux:before { content: unquote("\"\\#{$ci-var-os-linux}\""); }
+.#{$ci-css-prefix}-bug:before { content: unquote("\"\\#{$ci-var-bug}\""); }
+.#{$ci-css-prefix}-openid:before { content: unquote("\"\\#{$ci-var-openid}\""); }
+.#{$ci-css-prefix}-fw-drupal:before { content: unquote("\"\\#{$ci-var-fw-drupal}\""); }
+.#{$ci-css-prefix}-fw-joomla:before { content: unquote("\"\\#{$ci-var-fw-joomla}\""); }
+.#{$ci-css-prefix}-git-square:before { content: unquote("\"\\#{$ci-var-git-square}\""); }
+.#{$ci-css-prefix}-git:before { content: unquote("\"\\#{$ci-var-git}\""); }
+.#{$ci-css-prefix}-meanpath:before { content: unquote("\"\\#{$ci-var-meanpath}\""); }
+.#{$ci-css-prefix}-code2:before { content: unquote("\"\\#{$ci-var-code2}\""); }
+.#{$ci-css-prefix}-database:before { content: unquote("\"\\#{$ci-var-database}\""); }
+.#{$ci-css-prefix}-smashing:before { content: unquote("\"\\#{$ci-var-smashing}\""); }
+.#{$ci-css-prefix}-cloud:before { content: unquote("\"\\#{$ci-var-cloud}\""); }
+.#{$ci-css-prefix}-bug2:before { content: unquote("\"\\#{$ci-var-bug2}\""); }
+.#{$ci-css-prefix}-database2:before { content: unquote("\"\\#{$ci-var-database2}\""); }
+.#{$ci-css-prefix}-database3:before { content: unquote("\"\\#{$ci-var-database3}\""); }
+.#{$ci-css-prefix}-file-binary:before { content: unquote("\"\\#{$ci-var-file-binary}\""); }
+.#{$ci-css-prefix}-file-code:before { content: unquote("\"\\#{$ci-var-file-code}\""); }
+.#{$ci-css-prefix}-gist:before { content: unquote("\"\\#{$ci-var-gist}\""); }
+.#{$ci-css-prefix}-git-branch:before { content: unquote("\"\\#{$ci-var-git-branch}\""); }
+.#{$ci-css-prefix}-git-commit:before { content: unquote("\"\\#{$ci-var-git-commit}\""); }
+.#{$ci-css-prefix}-git-compare:before { content: unquote("\"\\#{$ci-var-git-compare}\""); }
+.#{$ci-css-prefix}-git-merge:before { content: unquote("\"\\#{$ci-var-git-merge}\""); }
+.#{$ci-css-prefix}-git-pull-request:before { content: unquote("\"\\#{$ci-var-git-pull-request}\""); }
+.#{$ci-css-prefix}-markdown:before { content: unquote("\"\\#{$ci-var-markdown}\""); }
+.#{$ci-css-prefix}-organization:before { content: unquote("\"\\#{$ci-var-organization}\""); }
+.#{$ci-css-prefix}-package:before { content: unquote("\"\\#{$ci-var-package}\""); }
+.#{$ci-css-prefix}-repo:before { content: unquote("\"\\#{$ci-var-repo}\""); }
+.#{$ci-css-prefix}-repo-clone:before { content: unquote("\"\\#{$ci-var-repo-clone}\""); }
+.#{$ci-css-prefix}-repo-force-push:before { content: unquote("\"\\#{$ci-var-repo-force-push}\""); }
+.#{$ci-css-prefix}-repo-forked:before { content: unquote("\"\\#{$ci-var-repo-forked}\""); }
+.#{$ci-css-prefix}-repo-pull:before { content: unquote("\"\\#{$ci-var-repo-pull}\""); }
+.#{$ci-css-prefix}-repo-push:before { content: unquote("\"\\#{$ci-var-repo-push}\""); }
+.#{$ci-css-prefix}-split:before { content: unquote("\"\\#{$ci-var-split}\""); }
+.#{$ci-css-prefix}-terminal2:before { content: unquote("\"\\#{$ci-var-terminal2}\""); }
+.#{$ci-css-prefix}-github:before { content: unquote("\"\\#{$ci-var-github}\""); }
+.#{$ci-css-prefix}-github-octoface-1:before { content: unquote("\"\\#{$ci-var-github-octoface-1}\""); }
+.#{$ci-css-prefix}-github-octoface-2:before { content: unquote("\"\\#{$ci-var-github-octoface-2}\""); }
+.#{$ci-css-prefix}-github2:before { content: unquote("\"\\#{$ci-var-github2}\""); }
+.#{$ci-css-prefix}-github3:before { content: unquote("\"\\#{$ci-var-github3}\""); }
+.#{$ci-css-prefix}-fw-wordpress-round:before { content: unquote("\"\\#{$ci-var-fw-wordpress-round}\""); }
+.#{$ci-css-prefix}-fw-wordpress-square:before { content: unquote("\"\\#{$ci-var-fw-wordpress-square}\""); }
+.#{$ci-css-prefix}-os-linux-tux:before { content: unquote("\"\\#{$ci-var-os-linux-tux}\""); }
+.#{$ci-css-prefix}-os-mac:before { content: unquote("\"\\#{$ci-var-os-mac}\""); }
+.#{$ci-css-prefix}-os-mac-finder:before { content: unquote("\"\\#{$ci-var-os-mac-finder}\""); }
+.#{$ci-css-prefix}-os-windows:before { content: unquote("\"\\#{$ci-var-os-windows}\""); }
+.#{$ci-css-prefix}-os-windows8:before { content: unquote("\"\\#{$ci-var-os-windows8}\""); }
+.#{$ci-css-prefix}-tool-stackoverflow:before { content: unquote("\"\\#{$ci-var-tool-stackoverflow}\""); }
+.#{$ci-css-prefix}-git2:before { content: unquote("\"\\#{$ci-var-git2}\""); }
+.#{$ci-css-prefix}-svg:before { content: unquote("\"\\#{$ci-var-svg}\""); }
+.#{$ci-css-prefix}-bw-chrome:before { content: unquote("\"\\#{$ci-var-bw-chrome}\""); }
+.#{$ci-css-prefix}-bw-firefox:before { content: unquote("\"\\#{$ci-var-bw-firefox}\""); }
+.#{$ci-css-prefix}-bw-IE:before { content: unquote("\"\\#{$ci-var-bw-IE}\""); }
+.#{$ci-css-prefix}-bw-opera:before { content: unquote("\"\\#{$ci-var-bw-opera}\""); }
+.#{$ci-css-prefix}-bw-safari:before { content: unquote("\"\\#{$ci-var-bw-safari}\""); }
+.#{$ci-css-prefix}-database4:before { content: unquote("\"\\#{$ci-var-database4}\""); }
