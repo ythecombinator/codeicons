@@ -1,0 +1,28 @@
+{
+  "name": "codeicons",
+  "main": [
+    "./dist/css/code-icons.css",
+    "./dist/css/code-icons.css.map",
+    "./dist/css/code-icons.min.css",
+    "./fonts/Code-Icons.eot",
+    "./fonts/Code-Icons.svg",
+    "./fonts/Code-Icons.ttf",
+    "./fonts/Code-Icons.woff"
+  ],
+  "homepage": "http://mabrasil.github.io/getcodeicons/",
+  "authors": [
+    "Matheus Brasil"
+  ],
+  "description": "An icon set of programming languages, frameworks, and coding tools.",
+  "keywords": [
+    "icons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "gulpfile.js",
+    "npm-debug.log",
+    "src"
+  ]
+}
